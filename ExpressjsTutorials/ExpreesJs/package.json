@@ -1,0 +1,14 @@
+{
+  "name": "expreesjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "start":"nodemon index.js"
+  },
+  "author": "Aman kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
